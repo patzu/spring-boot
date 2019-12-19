@@ -1,1 +1,10 @@
 Spring boot profiles
+
+After defining your profiles in application.properties file like the source code, 
+you can set the corresponding profile from Virtual Machine Options like below.
+
+java -jar "-Dspring.profiles.active=user_role" profile.jar
+
+Or
+
+java -jar "-Dspring.profiles.active=admin_role" profile.jar
