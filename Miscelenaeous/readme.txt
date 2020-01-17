@@ -7,3 +7,5 @@ as an actor) and a system to achieve a goal.
 
 //Jpa-ql console:
 There is no INSERT statement in JPA. You have to insert new entities using an EntityManager. The only statements allowed in JPA are SELECT, UPDATE and DELETE.
+
+https://www.w3schools.com/sql/
