@@ -9,3 +9,6 @@ as an actor) and a system to achieve a goal.
 There is no INSERT statement in JPA. You have to insert new entities using an EntityManager. The only statements allowed in JPA are SELECT, UPDATE and DELETE.
 
 https://www.w3schools.com/sql/
+
+//Maven
+For not tracking a folder and not seeing the changed files in your local changes add the corresponding folder to gitignore.
